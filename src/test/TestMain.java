@@ -6,6 +6,9 @@ public class TestMain {
 		
 		System.out.print("Welcome to git");
 		System.out.print("git clone sucessful by Sravaya");
+		if(true) {
+			System.out.println("try for conflicts");
+		}
 
 	}
 
